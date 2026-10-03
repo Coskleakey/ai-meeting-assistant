@@ -34,7 +34,7 @@ A fully offline AI-powered meeting assistant that transcribes audio recordings a
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/ai-meeting-assistant.git
+git clone https://github.com/Coskleakey/ai-meeting-assistant.git
 cd ai-meeting-assistant
 ```
 
